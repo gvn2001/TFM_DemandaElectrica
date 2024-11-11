@@ -12,7 +12,7 @@ En este archivo txt únicamente se va a mencionar la estructura del proyecto: ca
   - scikit-learn: para el desarrollo y evaluación de modelos de Machine Learning.
   - matplotlib: para la visualización de datos.
   - skforecast: para facilitar el entrenamiento de modelos para series temporales.
-  - keras: Para el desarrollo de redes neuronales.
+  - keras: para el desarrollo de redes neuronales.
   - pyesios: librería para la extracción de datos de demanda eléctrica en el API de la REE.
 
 ## Estructura de carpetas y archivos
@@ -25,7 +25,7 @@ En este archivo txt únicamente se va a mencionar la estructura del proyecto: ca
     - extracción_demanda_eléctrica.ipynb: notebook para la extracción de datos de demanda eléctrica.
     - datos_demanda_media_diaria.csv: archivo de texto que contiene los datos de demanda eléctrica extraídos y preprocesados.
     - preprocesamiento.ipynb: notebook donde se realiza el preprocesamiento de los datos.
-    - datos_preprocesados: archivo de texto que contiene los datos limpios.
+    - datos_preprocesados.csv: archivo de texto que contiene los datos limpios.
     - EDA.ipynb: notebook donde se realiza el EDA.
     - resto de archivos: archivos necesarios para el correcto funcionamiento de la librería de pyesios.
 
