@@ -10,24 +10,11 @@ y modelos tradicionales para evaluar su eficacia en la predicción de la demanda
 ## 🛠️ Tecnologías Utilizadas  
 
 ### 📌 Lenguaje de Programación  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) → **Python**: Desarrollo y análisis de datos.  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 📌 Librerías Principales  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) → `pandas`: Manipulación y limpieza de datos.  
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) → `numpy`: Cálculos matemáticos y operaciones numéricas.  
-
-![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) → `scikit-learn`: Modelos de Machine Learning.  
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white) → `matplotlib`: Visualización de datos.  
-
-![Skforecast](https://img.shields.io/badge/Skforecast-FF6F00?style=for-the-badge&logo=python&logoColor=white) → `skforecast`: Modelado de series temporales.  
-
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) → `keras`: Redes neuronales profundas (Deep Learning).  
-
-![Pyesios](https://img.shields.io/badge/Pyesios-003B57?style=for-the-badge&logo=python&logoColor=white) → `pyesios`: Extracción de datos de la API de REE.  
- 
-
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white) ![Skforecast](https://img.shields.io/badge/Skforecast-FF6F00?style=for-the-badge&logo=python&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Pyesios](https://img.shields.io/badge/Pyesios-003B57?style=for-the-badge&logo=python&logoColor=white) 
 
 ---
 
